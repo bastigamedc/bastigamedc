@@ -3,6 +3,8 @@
 ## 📌 Über mich:
 - 📍 Ich komme aus Deutschland (Bayern)
 - 📝 Ich Programmiere gerne Discord Bots in py-cord
+- 📷 Ich [streame](https://twitch.tv/bastigametv) gerne
+- ⭐ Besitzte einen [öffentlichen Bot](https://discord.com/api/oauth2/authorize?client_id=1169681232532099112&permissions=430302428277&scope=bot%20applications.commands)
 
 ## 🛠️ Programmiersprachen und Tools:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Pycord-Development/pycord)
