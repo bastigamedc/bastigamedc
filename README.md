@@ -18,7 +18,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bastigamedc&theme=synthwave&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bastigamedc&theme=dark)](https://git.io/streak-stats)
-
 ## 🔎 Discord Profiel:
 <a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
+
+<p align="right">
+  <img align="center" src="https://komarev.com/ghpvc/?username=bastigamedc&label=Profile%20views&color=0e75b6&style=flat" alt="nykoos"/>
+</p>
