@@ -5,8 +5,8 @@
 - 📝 Ich Programmiere gerne Discord Bots in py-cord
 
 ## 🛠️ Programmiersprachen und Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Pycord-Development/pycord)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/sqlite/sqlite)
 
 
 ## 📷 Socials:  
@@ -22,5 +22,5 @@
 <a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
 
 <p align="right">
-  <img align="center" src="https://komarev.com/ghpvc/?username=bastigamedc&label=Profile%20views&color=0e75b6&style=flat" alt="nykoos"/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=bastigamedc&label=Profile%20views&color=0e75b6&style=flat" alt="bastigamedc"/>
 </p>
