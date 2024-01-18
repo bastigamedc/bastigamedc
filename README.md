@@ -23,9 +23,9 @@
 
 
 ## 📈 Stats:
-![](https://github-readme-stats.vercel.app/api?username=silbergecko6917&show_icons=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=bastigamedc&show_icons=true&theme=synthwave)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=silbergecko6917&theme=synthwave&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bastigamedc&theme=synthwave&layout=compact)
 
 ## 🔎 Discord Profiel:
-<a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/753974250968186901"><p/>
+<a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
