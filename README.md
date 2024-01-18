@@ -1,11 +1,3 @@
-# Informationen
-[![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/2wh9SaknFd)
-
-# Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastigamedc&show_icons=true&theme=dracula)
-
-
-
 # Hey, ich bin BastiGame <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 📌 Über mich:
@@ -18,7 +10,7 @@
 
 
 ## 📷 Socials:  
-[![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/2wh9SaknFd) [![](https://img.shields.io/twitch/status/silbergecko_tv?style=for-the-badge&logo=twitch&logoColor=white&color=purple)](https://twitch.tv/bastigametv)
+[![Discord](https://web.archive.org/web/20230426100547/https://img.shields.io/discord/1111752217083531274?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/Pnw5vEjRZ5) [![](https://img.shields.io/twitch/status/silbergecko_tv?style=for-the-badge&logo=twitch&logoColor=white&color=purple)](https://twitch.tv/bastigametv)
 
 
 ## 📈 Stats:
