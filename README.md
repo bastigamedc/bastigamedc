@@ -3,7 +3,6 @@
 
 # Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastigamedc&show_icons=true&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bastigamedc&theme=dracula)](https://git.io/streak-stats)
 
 
 
@@ -26,6 +25,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=bastigamedc&show_icons=true&theme=synthwave)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bastigamedc&theme=synthwave&layout=compact)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bastigamedc&theme=synthwave&layout=compact)](https://git.io/streak-stats)
 
 ## 🔎 Discord Profiel:
 <a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
