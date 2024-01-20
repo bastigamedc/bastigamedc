@@ -16,7 +16,7 @@
 [![](https://img.shields.io/twitch/status/silbergecko_tv?style=for-the-badge&logo=twitch&logoColor=white&color=purple)](https://twitch.tv/bastigametv)
 
 ## ⭐ Projekte:
-[Flash-Global](https://discord.com/api/oauth2/authorize?client_id=1169681232532099112&permissions=430302428277&scope=bot%20applications.commands)
+[![Flash-Global](https://img.shields.io/badge/Flash_Global-00A966?style=for-the-badge&logo=wechat&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1169681232532099112&permissions=430302428277&scope=bot%20applications.commands)
 
 ## 📈 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bastigamedc&show_icons=true&theme=synthwave)
