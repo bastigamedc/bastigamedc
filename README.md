@@ -20,9 +20,9 @@
 [![Flash-Global](https://img.shields.io/badge/FlashBot-00A966?style=for-the-badge&logo=wechat&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1111374314340626433&permissions=1497266007286&scope=bot%20applications.commands)
 
 ## 📈 Stats:
-![](https://github-readme-stats.vercel.app/api?username=bastigamedc&show_icons=true&theme=synthwave)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bastigamedc&theme=synthwave&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bastigamedc&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bastigamedc&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bastigamedc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔎 Discord Profiel:
 <a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
@@ -30,7 +30,3 @@
 <p align="right">
   <img align="center" src="https://komarev.com/ghpvc/?username=bastigamedc&label=Profile%20views&color=0e75b6&style=flat" alt="bastigamedc"/>
 </p>
-
-![](https://github-readme-stats.vercel.app/api?username=bastigamedc&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bastigamedc&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bastigamedc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
