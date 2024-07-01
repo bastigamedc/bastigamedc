@@ -3,6 +3,7 @@
 ## 📌 Über mich:
 - 📍 Ich komme aus Deutschland (Bayern)
 - 📝 Ich programmiere gerne
+  
 <a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
 
 
