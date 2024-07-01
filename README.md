@@ -64,7 +64,9 @@ Python                   18 repos            ███████████�
  Last Updated on 01/07/2024 00:51:18 UTC
 <!--END_SECTION:waka-->
 
+[![](https://visitcount.itsvg.in/api?id=bastigamedc&icon=2&color=0)](https://visitcount.itsvg.in)
+
+
 <p align="right">
   <img align="center" src="https://komarev.com/ghpvc/?username=bastigamedc&label=Profile%20views&color=0e75b6&style=flat" alt="bastigamedc"/>
 </p>
-[![](https://visitcount.itsvg.in/api?id=bastigamedc&icon=2&color=0)](https://visitcount.itsvg.in)
