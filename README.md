@@ -3,6 +3,8 @@
 ## 📌 Über mich:
 - 📍 Ich komme aus Deutschland (Bayern)
 - 📝 Ich programmiere gerne
+<a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
+
 
 ## 🛠️ Programmiersprachen & Tools:
 [![My Skills](https://skillicons.dev/icons?i=discord,figma,notion,pycharm,py,redis,sqlite,vscode,windows)](https://skillicons.dev)
@@ -58,9 +60,6 @@ Python                   18 repos            ███████████�
 
  Last Updated on 01/07/2024 00:51:18 UTC
 <!--END_SECTION:waka-->
-
-## 🔎 Discord Profiel:
-<a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
 
 <p align="right">
   <img align="center" src="https://komarev.com/ghpvc/?username=bastigamedc&label=Profile%20views&color=0e75b6&style=flat" alt="bastigamedc"/>
