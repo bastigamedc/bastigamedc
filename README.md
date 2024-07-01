@@ -1,3 +1,10 @@
+![Twitch Status](https://img.shields.io/twitch/status/bastigametv)
+
+
+
+
+
+
 # Hey, ich bin BastiGame <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 📌 Über mich:
