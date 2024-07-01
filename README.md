@@ -65,8 +65,3 @@ Python                   18 repos            ███████████�
 
  Last Updated on 01/07/2024 00:51:18 UTC
 <!--END_SECTION:waka-->
-
-
-<p align="right">
-  <img align="center" src="https://komarev.com/ghpvc/?username=bastigamedc&label=Profile%20views&color=0e75b6&style=flat" alt="bastigamedc"/>
-</p>
