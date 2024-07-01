@@ -3,7 +3,8 @@
 ## 📌 Über mich:
 - 📍 Ich komme aus Deutschland (Bayern)
 - 📝 Ich programmiere gerne
-  
+  [![](https://visitcount.itsvg.in/api?id=bastigamedc&icon=2&color=0)](https://visitcount.itsvg.in)
+
 <a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
 
 
@@ -63,8 +64,6 @@ Python                   18 repos            ███████████�
 
  Last Updated on 01/07/2024 00:51:18 UTC
 <!--END_SECTION:waka-->
-
-[![](https://visitcount.itsvg.in/api?id=bastigamedc&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 <p align="right">
