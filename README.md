@@ -13,7 +13,7 @@
 ## ⭐ Projekte:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hfjv2cCQ)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/bastigametv)
-[![FlashBot](https://img.shields.io/badge/FlashBot-%237289DA.svg?logo=wechat&logoColor=white)](https://discord.com/application-directory/1111374314340626433)
+[![FlashBot](https://img.shields.io/badge/FlashBot-%ff7e47.svg?logo=wechat&logoColor=white)](https://discord.com/application-directory/1111374314340626433)
 [![FlashGlobal](https://img.shields.io/badge/FlashGlobal-%ff7e47.svg?logo=wechat&logoColor=white)](https://discord.com/application-directory/1169681232532099112)
 
 ## 📈 Stats:
