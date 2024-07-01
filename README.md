@@ -1,5 +1,5 @@
 # Hey, ich bin BastiGame <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 ## 📌 Über mich:
 - 📍 Ich komme aus Deutschland (Bayern)
 - 📝 Ich Programmiere gerne Discord Bots in py-cord
