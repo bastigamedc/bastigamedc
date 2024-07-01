@@ -13,8 +13,8 @@
 ## ⭐ Projekte:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hfjv2cCQ)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/bastigametv)
-[![Flash-Global](https://img.shields.io/badge/Flash_Global-00A966.svg&logo=wechat&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1169681232532099112&permissions=430302428277&scope=bot%20applications.commands)
-[![Flash-Global](https://img.shields.io/badge/FlashBot-00A966?style=for-the-badge&logo=wechat&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1111374314340626433&permissions=1497266007286&scope=bot%20applications.commands)
+[![FlashBot](https://img.shields.io/badge/FlashBot-%237289DA.svg?logo=wechat&logoColor=white)](https://discord.com/application-directory/1111374314340626433)
+[![FlashGlobal](https://img.shields.io/badge/FlashGlobal-%237289DA.svg?logo=wechat&logoColor=white)](https://discord.com/application-directory/1169681232532099112)
 
 ## 📈 Stats:
 <!--START_SECTION:waka-->
