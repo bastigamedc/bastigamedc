@@ -9,7 +9,9 @@
 [![My Skills](https://skillicons.dev/icons?i=discordjs,nodejs,npm,redis,sqlite)](https://skillicons.dev)
 
 ## 🛠️ Programing Languages:
-c
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts)](https://skillicons.dev)
+
+
 ## ⭐ Projekte:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hfjv2cCQ)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/bastigametv)
