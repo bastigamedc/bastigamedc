@@ -10,7 +10,7 @@
 
 
 ## 🛠️ Programmiersprachen & Tools:
-[![My Skills](https://skillicons.dev/icons?i=discord,figma,notion,pycharm,py,redis,sqlite,vscode,windows,discordjs,github,js,nodejs,npm,py,pycharm,sqlite,vscode,webstorm,yt,youtube)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,notion,pycharm,py,redis,sqlite,vscode,windows,discordjs,github,js,nodejs,npm,py,pycharm,sqlite,vscode,webstorm,yt,YouTube)](https://skillicons.dev)
 
 ## ⭐ Projekte:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hfjv2cCQ)
