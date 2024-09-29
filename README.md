@@ -14,13 +14,14 @@
 [![](https://skillicons.dev/icons?i=figma)](https://www.figma.com "Figma")
 
 
-## Libraries:
+## 🎉 Libraries:
 [![](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/ "FastAPI")
+[![](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/ "Flask")
 [![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/ "DiscordJS")
 [![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en "NodeJS")
 [![](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/ "NPM")
 
-## Databse
+## 💾 Databse
 [![](https://skillicons.dev/icons?i=redis)](https://redis.io/de/ "Redis")
 [![](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "SQLite")
 [![](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org/ "PostgreSQL")
