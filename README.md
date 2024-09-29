@@ -9,7 +9,7 @@
 <a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
 
 ## Tools:
-[![My Skills](https://skillicons.dev/icons?i=figma,notion,pycharm,vscode,windows,github,pycharm,vscode,webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,notion,vscode,windows,github,pycharm,vscode,webstorm)](https://skillicons.dev)
 
 
 ## 🛠️ Programmiersprachen & Tools:
