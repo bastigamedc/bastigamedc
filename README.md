@@ -3,7 +3,15 @@
 <a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
 
 ## 🪴 Tools:
-[![My Tools](https://skillicons.dev/icons?i=discord,discordbot,pycharm,webstorm,vscode,github,notion,figma,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/ "Discord")
+[![](https://skillicons.dev/icons?i=bots)](https://discord.dev/ "Discord Bots")
+[![](https://skillicons.dev/icons?i=pycharm)](https://jetbrains.com/pycharm/ "PyCharm")
+[![](https://skillicons.dev/icons?i=webstorm)](https://jetbrains.com/webstorm/ "WebStorm")
+[![](https://skillicons.dev/icons?i=vscode)](https://vscode.dev/ "VSC")
+[![](https://skillicons.dev/icons?i=github)](https://github.com/ "GitHub")
+[![](https://skillicons.dev/icons?i=notion)](https://www.notion.so "Notion")
+[![](https://skillicons.dev/icons?i=figma)](https://www.figma.com "Figma")
+
 
 ## Libraries:
 [![My Skills](https://skillicons.dev/icons?i=fastapi,discordjs,nodejs,npm,redis,sqlite,postgresql)](https://skillicons.dev)
