@@ -13,7 +13,7 @@
 
 
 ## 🛠️ Programmiersprachen:
-[![My Skills](https://skillicons.dev/icons?i=py,redis,sqlite,discordjs,js,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,discordjs,js,nodejs,npm,redis,sqlite)](https://skillicons.dev)
 
 ## ⭐ Projekte:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hfjv2cCQ)
