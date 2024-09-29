@@ -6,7 +6,7 @@
 [![My Tools](https://skillicons.dev/icons?i=discord,pycharm,webstorm,vscode,github,notion,figma,windows)](https://skillicons.dev)
 
 ## Libraries:
-[![My Skills](https://skillicons.dev/icons?i=discordjs,nodejs,npm,redis,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discordjs,nodejs,npm,redis,sqlite,postgresql)](https://skillicons.dev)
 
 ## 🛠️ Programing Languages:
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts)](https://skillicons.dev)
