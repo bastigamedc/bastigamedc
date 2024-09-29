@@ -3,10 +3,10 @@
 <a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
 
 ## 🪴 Tools:
-[![My Tools](https://skillicons.dev/icons?i=discord,pycharm,webstorm,vscode,github,notion,figma,windows)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=discord,discordbot,pycharm,webstorm,vscode,github,notion,figma,windows)](https://skillicons.dev)
 
 ## Libraries:
-[![My Skills](https://skillicons.dev/icons?i=discordjs,nodejs,npm,redis,sqlite,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,discordjs,nodejs,npm,redis,sqlite,postgresql)](https://skillicons.dev)
 
 ## 🛠️ Programing Languages:
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts)](https://skillicons.dev)
