@@ -14,10 +14,23 @@
 
 
 ## Libraries:
-[![My Skills](https://skillicons.dev/icons?i=fastapi,discordjs,nodejs,npm,redis,sqlite,postgresql)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/ "FastAPI")
+[![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/ "DiscordJS")
+[![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en "NodeJS")
+[![](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/ "NPM")
+
+## Databse
+[![](https://skillicons.dev/icons?i=redis)](https://redis.io/de/ "Redis")
+[![](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "SQLite")
+[![](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org/ "PostgreSQL")
+[![](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/de/ "MySQL")
+
 
 ## 🛠️ Programing Languages:
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python")
+[![](https://skillicons.dev/icons?i=js)](https://de.wikipedia.org/wiki/JavaScript "JavaScript")
+[![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/ "TypeScript")
+
 
 
 ## ⭐ Projekte:
