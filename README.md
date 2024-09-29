@@ -8,12 +8,12 @@
 
 <a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
 
-## Tools:
-[![My Skills](https://skillicons.dev/icons?i=discord,pycharm,webstorm,vscode,github,notion,figma,windows)](https://skillicons.dev)
+## 🪴 Tools:
+[![My Tools](https://skillicons.dev/icons?i=discord,pycharm,webstorm,vscode,github,notion,figma,windows)](https://skillicons.dev)
 
 
-## 🛠️ Programmiersprachen & Tools:
-[![My Skills](https://skillicons.dev/icons?i=discord,figma,notion,pycharm,py,redis,sqlite,vscode,windows,discordjs,github,js,nodejs,npm,py,pycharm,sqlite,vscode,webstorm,redis)](https://skillicons.dev)
+## 🛠️ Programmiersprachen:
+[![My Skills](https://skillicons.dev/icons?i=py,redis,sqlite,discordjs,js,nodejs,npm)](https://skillicons.dev)
 
 ## ⭐ Projekte:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hfjv2cCQ)
