@@ -5,10 +5,11 @@
 ## 🪴 Tools:
 [![My Tools](https://skillicons.dev/icons?i=discord,pycharm,webstorm,vscode,github,notion,figma,windows)](https://skillicons.dev)
 
+## Libraries:
+[![My Skills](https://skillicons.dev/icons?i=discordjs,nodejs,npm,redis,sqlite)](https://skillicons.dev)
 
-## 🛠️ Programmiersprachen:
-[![My Skills](https://skillicons.dev/icons?i=py,js,discordjs,nodejs,npm,redis,sqlite)](https://skillicons.dev)
-
+## 🛠️ Programing Languages:
+c
 ## ⭐ Projekte:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hfjv2cCQ)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/bastigametv)
