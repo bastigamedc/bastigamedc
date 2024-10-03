@@ -1,4 +1,4 @@
-# Hey, ich bin BastiGame <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm BastiGame <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
 
