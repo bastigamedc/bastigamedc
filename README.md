@@ -34,3 +34,13 @@
 [![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/ "TypeScript")
 
 ## 🚀 Current projects
+- ***Developer @ [cookieapp.me](https://cookieapp.me/)***
+- ***Developer @ [GalaxyBot.app](https://galaxybot.app/)***
+- ***Marketing @ [GalaxyBot.app](https://galaxybot.app/)***
+- ***Support @ [GalaxyBot.app](https://galaxybot.app/)***
+- Looking for more!
+
+## 📱 Contact
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1018150165489668227)
+[![](https://skillicons.dev/icons?i=gmail)](mailto:basti02game@gmail.com)
+
