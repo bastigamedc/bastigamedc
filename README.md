@@ -30,14 +30,14 @@
 [![](https://skillicons.dev/icons?i=js)](https://de.wikipedia.org/wiki/JavaScript "JavaScript")
 [![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/ "TypeScript")
 
+## 📱 Contact
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1018150165489668227)
+[![](https://skillicons.dev/icons?i=gmail)](mailto:basti02game@gmail.com)
+
 ## 🚀 Current projects
 - ***Developer @ [cookieapp.me](https://cookieapp.me/)***
 - ***Developer @ [galaxybot.app](https://galaxybot.app/)***
 - ***Marketing @ [galaxybot.app](https://galaxybot.app/)***
 - ***Support @ [galaxybot.app](https://galaxybot.app/)***
 - Looking for more!
-
-## 📱 Contact
-[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1018150165489668227)
-[![](https://skillicons.dev/icons?i=gmail)](mailto:basti02game@gmail.com)
 
