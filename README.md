@@ -34,9 +34,9 @@
 
 ## 🚀 Current projects
 - ***Developer @ [cookieapp.me](https://cookieapp.me/)***
-- ***Developer @ [galaxyBot.app](https://galaxybot.app/)***
-- ***Marketing @ [galaxyBot.app](https://galaxybot.app/)***
-- ***Support @ [galaxyBot.app](https://galaxybot.app/)***
+- ***Developer @ [galaxybot.app](https://galaxybot.app/)***
+- ***Marketing @ [galaxybot.app](https://galaxybot.app/)***
+- ***Support @ [galaxybot.app](https://galaxybot.app/)***
 - Looking for more!
 
 ## 📱 Contact
