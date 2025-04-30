@@ -41,3 +41,5 @@
 - ***Support @ [galaxybot.app](https://galaxybot.app/)***
 - Looking for more!
 
+## ℹ️ Information 
+I have switched to another git platform, so commits are no longer displayed here in the activity.
