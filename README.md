@@ -35,7 +35,7 @@
 [![](https://skillicons.dev/icons?i=gmail)](mailto:basti02game@gmail.com)
 
 ## 🚀 Current projects
-- ***Founder @ [Foundry](https://discord.gg/5WvjDg2qY3)***
+- ***Founder @ [Dev HQ](https://discord.gg/5WvjDg2qY3)***
 - ***Developer @ [cookieapp.me](https://cookieapp.me/)***
 - ***Developer @ [galaxybot.app](https://galaxybot.app/)***
 - ***Marketing @ [galaxybot.app](https://galaxybot.app/)***
