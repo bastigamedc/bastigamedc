@@ -9,6 +9,7 @@
 [![](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
 [![](https://skillicons.dev/icons?i=github)](https://github.com/ "GitHub")
 [![](https://skillicons.dev/icons?i=notion)](https://www.notion.so "Notion")
+[![](https://skillicons.dev/icons?i=figma)](https://www.figma.com "Figma")
 
 
 ## 🎉 Libraries:
