@@ -39,7 +39,6 @@
 - ***Founder @ [Dev HQ](https://discord.gg/5WvjDg2qY3)***
 - ***Developer @ [galaxybot.app](https://galaxybot.app/)***
 - ***Marketing @ [galaxybot.app](https://galaxybot.app/)***
-- ***Support @ [galaxybot.app](https://galaxybot.app/)***
 
 ## ℹ️ Information 
 I have switched to another git platform, so commits are no longer displayed here in the activity.
